@@ -14,11 +14,11 @@ why i make it?
 - 所以我制作了它
       
 ### EXAMPLE 示例
-> **CALCULATOR**
-> **计算**
+- **CALCULATOR**
+- **计算**
 ```
-- Calculator.eval("1 + 5 * 30 + (10 * 10)");
-- return 251.0
+> Calculator.eval("1 + 5 * 30 + (10 * 10)");
+> return 251.0
 ```
       
 - **SIMPLE CHECK**
