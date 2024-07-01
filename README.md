@@ -18,14 +18,14 @@ why i make it?
 - ** 计算 **
 ```
 - Calculator.eval("1 + 5 * 30 + (10 * 10)");
-- return 251.0<br/>
+- return 251.0
 ```
       
 - ** SIMPLE CHECK **
 - ** 简单判断 **
 ```
 - Calculator.eval("1 + 5 > 5");
-- return 1.0 (true)<br/>
+- return 1.0 (true)
 ```
    
 - ** ATTENTION **
@@ -36,7 +36,7 @@ why i make it?
 -  for example 
 -  例如
 ```
--  new SymbolReduce().register();<br/>
+-  new SymbolReduce().register();
 ```
    
 -  please implements interface CalculatorSymbol and register it if you want to make a custom symbol.
