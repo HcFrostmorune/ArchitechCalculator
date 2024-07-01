@@ -30,11 +30,11 @@ why i make it?
    
 - **ATTENTION**
 - **注意事项**
--   you should register calculate symbols before do calculator work
+>you should register calculate symbols before do calculator work
 -   在使用计算功能之前,你应该要先去将计算符号注册<br/>
 
--  for example 
--  例如
+>      for example 
+>      例如
 ```
 -  new SymbolReduce().register();
 ```
