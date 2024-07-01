@@ -16,25 +16,27 @@ why i make it?
 # EXAMPLE
 # 示例
 
-# CALCULATOR
-# 计算
-Calculator.eval("1 + 5 * 30 + (10 * 10)");
+- CALCULATOR
+- 计算
+- Calculator.eval("1 + 5 * 30 + (10 * 10)");
+- return 251.0
 
-# SIMPLE CHECK
-# 简单判断
-Calculator.eval("1 + 5 > 5");
+- SIMPLE CHECK
+- 简单判断
+- Calculator.eval("1 + 5 > 5");
+- return 1.0 (true)
 
-# ATTENTION
-# 注意事项
-you should register calculate symbols before do calculator work
-在使用计算功能之前,你应该要先去将计算符号注册
+- ATTENTION
+- 注意事项
+-   you should register calculate symbols before do calculator work
+-   在使用计算功能之前,你应该要先去将计算符号注册
 
-for example 
-例如 
-new SymbolReduce().register();
+-  for example 
+-  例如 
+-  new SymbolReduce().register();
 
-please implements interface CalculatorSymbol and register it if you want to make a custom symbol.
-如果你要自定义计算符号,请继承接口CalculatorSymbol并在使用之前将它注册
+-  please implements interface CalculatorSymbol and register it if you want to make a custom symbol.
+-  如果你要自定义计算符号,请继承接口CalculatorSymbol并在使用之前将它注册
 
 My English so bad.
-I am sorry if you cant understand
+I am so sorry if you cant understand
