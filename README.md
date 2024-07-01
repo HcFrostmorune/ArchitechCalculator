@@ -24,8 +24,8 @@ why i make it?
 - **SIMPLE CHECK**
 - **简单判断**
 ```
-- Calculator.eval("1 + 5 > 5");
-- return 1.0 (true)
+> Calculator.eval("1 + 5 > 5");
+> return 1.0 (true)
 ```
    
 - **ATTENTION**
@@ -36,7 +36,7 @@ why i make it?
 >      for example 
 >      例如
 ```
--  new SymbolReduce().register();
+>  new SymbolReduce().register();
 ```
    
 -  please implements interface CalculatorSymbol and register it if you want to make a custom symbol.
