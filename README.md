@@ -14,22 +14,22 @@ why i make it?
 - 所以我制作了它
       
 # EXAMPLE 示例
-- ** CALCULATOR **
-- ** 计算 **
+- **CALCULATOR**
+- **计算**
 ```
 - Calculator.eval("1 + 5 * 30 + (10 * 10)");
 - return 251.0
 ```
       
-- ** SIMPLE CHECK **
-- ** 简单判断 **
+- **SIMPLE CHECK**
+- **简单判断**
 ```
 - Calculator.eval("1 + 5 > 5");
 - return 1.0 (true)
 ```
    
-- ** ATTENTION **
-- ** 注意事项 **
+- **ATTENTION**
+- **注意事项**
 -   you should register calculate symbols before do calculator work
 -   在使用计算功能之前,你应该要先去将计算符号注册<br/>
       
